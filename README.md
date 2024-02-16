@@ -2,7 +2,7 @@
 ## 🏢🖥️ Im currently studying Computer Science in University of Palermo 
 
 ## Languages
-
+https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
 <!--
 **Amarin38/Amarin38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
