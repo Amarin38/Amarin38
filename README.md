@@ -5,8 +5,10 @@
   <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width=60 height=60>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width=40 height=40>
-    <img src="" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=60 height=60>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width=60 height=60>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width=60 height=60>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width=60 height=60>
   </p>
 <h2 align="center">-------------- Techonologies --------------</h2>
   <p align="center">
