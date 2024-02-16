@@ -1,5 +1,5 @@
-# Hi there I'm Agustín Miguel Marino👋x
-### · 🏢🖥️ I'm currently studying Computer Science in University of Palermo 
+# Hi there I'm Agustín Miguel Marino👋
+### · 🏢🖥️ I'm currently studying Computer Science at <em> Universidad de Palermo </em> 
 
 <h2 align="center">-------------- Languages --------------</h2>
   <p align="center">
