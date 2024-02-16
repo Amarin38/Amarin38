@@ -3,7 +3,7 @@
 
 <h2 align="center">-------------- Languages --------------</h2>
   <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=60 height=60>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width=60 height=60>
@@ -18,6 +18,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60 height=60>
     <img src="https://github.com/jgraph/drawio-desktop/blob/dev/build/128x128.png" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width=60 height=60>
+    <img src="" width=60 height=60>
   </p>
 
 <!--
