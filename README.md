@@ -1,20 +1,20 @@
 # Hi there I'm Agustín Miguel Marino👋x
 ### · 🏢🖥️ I'm currently studying Computer Science in University of Palermo 
 
-
-<p align="center">
-  <h2 align="center"> Languages</h2>
+<h2 align="center">--------------Languages--------------</h2>
+  <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=30 height=30>
-    <img src="" width=50 height=50>
-    <img src="" width=50 height=50>
-    <img src="" width=50 height=50>
-
-  <h2 align="center">Techonologies</h2>
-    <img src="" width=50 height=50>
-    <img src="" width=50 height=50>
-    <img src="" width=50 height=50>
-    <img src="" width=50 height=50>
-</p>
+    <img src="" width=40 height=40>
+    <img src="" width=40 height=40>
+    <img src="" width=40 height=40>
+  </p>
+<h2 align="center">--------------Techonologies--------------</h2>
+  <p align="center">
+    <img src="" width=40 height=40>
+    <img src="" width=40 height=40>
+    <img src="" width=40 height=40>
+    <img src="" width=40 height=40>
+  </p>
 
 <!--
 **Amarin38/Amarin38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
