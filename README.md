@@ -15,6 +15,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width=60 height=60>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60 height=60>
+    <img src="https://github.com/jgraph/drawio-desktop/blob/dev/build/128x128.png" width=60 height=60>
     
   </p>
 
