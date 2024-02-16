@@ -12,10 +12,10 @@
   </p>
 <h2 align="center">-------------- Techonologies --------------</h2>
   <p align="center">
-    <img src="" width=40 height=40>
-    <img src="" width=40 height=40>
-    <img src="" width=40 height=40>
-    <img src="" width=40 height=40>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=60 height=60>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width=60 height=60>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width=60 height=60>
+    
   </p>
 
 <!--
