@@ -3,7 +3,7 @@
 
 <h2 align="center">-------------- Languages --------------</h2>
   <p align="center">
-    <img src="https://github.com/devicons/devicon/master/icons/python/python-plain.svg" width=60 height=60>
+    <img src="[https://github.com/devicons/devicon/master/icons/python/python-plain.svg](https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg)" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width=60 height=60>
     <img src="" width=40 height=40>
     <img src="" width=40 height=40>
