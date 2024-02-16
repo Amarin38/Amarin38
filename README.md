@@ -4,6 +4,9 @@
 
 ### Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=30 height=30 style="text-align:center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg" width=30 height=30 style="text-align:center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/c-original.svg" width=30 height=30 style="text-align:center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/sql-original.svg" width=30 height=30 style="text-align:center">
 
 <!--
 **Amarin38/Amarin38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
