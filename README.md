@@ -11,7 +11,7 @@
 </p>
 
 ### Techonologies
-<p align="left">
+<p align="center">
   <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg)" width=30 height=30>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg" width=30 height=30>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/c-original.svg" width=30 height=30>
