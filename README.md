@@ -3,13 +3,13 @@
 
 
 <p align="center">
-  <h2> Languages</h2>
+  <h3> Languages</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=30 height=30>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg" width=30 height=30>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/c-original.svg" width=30 height=30>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/sql-original.svg" width=30 height=30>
 
-  <h2>Techonologies</h2>
+  <h3>Techonologies</h3>
   <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg)" width=30 height=30>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg" width=30 height=30>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/c-original.svg" width=30 height=30>
