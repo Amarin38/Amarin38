@@ -18,7 +18,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60 height=60>
     <img src="https://github.com/jgraph/drawio-desktop/blob/dev/build/128x128.png" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width=60 height=60>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AVirtualbox_logo.png&psig=AOvVaw1XHlM-bZnP71r06EgplfmL&ust=1708205284359000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjYm9vmsIQDFQAAAAAdAAAAABAE" width=60 height=60>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width=60 height=60>
   </p>
 
 <!--
