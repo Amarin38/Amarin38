@@ -7,6 +7,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width=60 height=60>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width=60 height=60>
   </p>
@@ -18,7 +19,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60 height=60>
     <img src="https://github.com/jgraph/drawio-desktop/blob/dev/build/128x128.png" width=60 height=60>
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width=60 height=60>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width=60 height=60>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width=60 height=60>
   </p>
 
